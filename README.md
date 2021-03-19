@@ -1,3 +1,3 @@
 # wa92bodigam
 
-*** My server is running fast ***
+***My server is running fast***
